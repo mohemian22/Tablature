@@ -1,0 +1,26 @@
+Guitar Tabbing Software
+
+Basic construction features:
+	User Input (Curses)
+	print the bar lines (guitar and bass; 6,4)
+	Input numbers for positions
+	symbols for different styles
+		/ slide up
+		\ slide down
+		H hammer on
+		P pull off
+		^ bend
+		* harmonic
+		R rest
+		~ vibrato
+
+
+
+
+Extra features:
+
+	Have chords preloaded, possibility
+	Maybe have user enter something to keep adding more bar lines?
+	input for the time signature (extra feature, add on later)
+	Save-as-file feature
+	I don't think there's a way for me to do imports, but I can research this.

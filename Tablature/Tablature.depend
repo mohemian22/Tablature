@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1369157829 source:c:\users\gary danovich\desktop\software development\tablature\main.cpp
+	<iostream>
+	"Board.h"
+	"Prints.h"
+
+1369158974 c:\users\gary danovich\desktop\software development\tablature\board.h
+	<iostream>
+
+1369157884 c:\users\gary danovich\desktop\software development\tablature\prints.h
+	<iostream>
+
